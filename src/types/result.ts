@@ -20,7 +20,7 @@ export class Result<T> {
   }
   getError(): DomainError {
     if (this.error === undefined) {
-      throw new Error("Tried to get error from successful resul");
+      throw new Error("Tried to get error from successful result");
     }
 
     return this.error;
