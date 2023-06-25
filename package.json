@@ -1,0 +1,22 @@
+{
+  "name": "ts-lib-core",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdario-dev/ts-lib-core.git"
+  },
+  "author": "gdario",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdario-dev/ts-lib-core/issues"
+  },
+  "homepage": "https://github.com/gdario-dev/ts-lib-core#readme",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
